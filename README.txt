@@ -12,7 +12,7 @@ Assignment_3 deals with:
 
 The final_project contains two parts:
 
-	1. involves a two-layer perceptron
-	2. involves a genetic algorithm implementation for a version of
+	Part 1. Consists of coding from scratch a two-layer perceptron. 
+	Part 2. Consists of coding a genetic algorithm implementation for a version of
  the Multiple Depot routing problem
 
